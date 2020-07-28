@@ -4,6 +4,10 @@ h1 {
     font-style: oblique;
     text-decoration-color: purple;
 }
-img{
+#central{
     margin-left: 14cm;
+    height: 200px;
+}
+body{ background-image: image();
+    
 }
