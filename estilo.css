@@ -11,7 +11,7 @@ p {
     text-align: center;
     margin-top: 6cm;
     width: 100%;
-    color: #044739
+    color: #c0ebe1
     
 }
 body{
@@ -35,5 +35,5 @@ button{
     padding: 15px; 
     cursor: pointer;  
     border: none; 
-    font-size: 16px;"
+    font-size: 16px;
 }
